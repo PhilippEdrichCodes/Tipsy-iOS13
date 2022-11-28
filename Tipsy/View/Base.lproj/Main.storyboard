@@ -49,7 +49,7 @@
                                                             <action selector="tipChanged:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EcP-pw-Ee4"/>
                                                         </connections>
                                                     </button>
-                                                    <button opaque="NO" contentMode="scaleToFill" selected="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7y6-Kf-yF0">
+                                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7y6-Kf-yF0">
                                                         <rect key="frame" x="95.333333333333329" y="0.0" width="162.33333333333337" height="54"/>
                                                         <constraints>
                                                             <constraint firstAttribute="height" constant="54" id="i5j-Nk-Hb1"/>
@@ -198,7 +198,7 @@
                     <connections>
                         <outlet property="billTextField" destination="wcN-ka-Q4F" id="nqV-Lp-7tD"/>
                         <outlet property="splitNumberLabel" destination="bSy-Yc-886" id="c1b-R5-ACI"/>
-                        <outlet property="tenPercentButton" destination="UtR-dU-EKt" id="2Ei-9l-9vs"/>
+                        <outlet property="tenPercentButton" destination="7y6-Kf-yF0" id="xhg-OX-rXU"/>
                         <outlet property="twentyPercentButton" destination="UtR-dU-EKt" id="xeZ-oy-eWr"/>
                         <outlet property="zeroPercentButton" destination="XzR-0E-Xf7" id="ryR-Xk-ezc"/>
                     </connections>
